@@ -23,7 +23,4 @@ docker container ls
 -- Open browser 
 	http://localhost:9090/hello
 
-docker exec -it 42eff6aad28b ip addr
-
-http://172.17.0.2:9090/hello
 
